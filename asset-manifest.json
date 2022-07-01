@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devanshutamrakar331/devshoppingcart.git/static/css/main.610ee364.css",
+    "main.js": "/devanshutamrakar331/devshoppingcart.git/static/js/main.d7c878f6.js",
+    "static/js/787.16b8aed7.chunk.js": "/devanshutamrakar331/devshoppingcart.git/static/js/787.16b8aed7.chunk.js",
+    "index.html": "/devanshutamrakar331/devshoppingcart.git/index.html",
+    "main.610ee364.css.map": "/devanshutamrakar331/devshoppingcart.git/static/css/main.610ee364.css.map",
+    "main.d7c878f6.js.map": "/devanshutamrakar331/devshoppingcart.git/static/js/main.d7c878f6.js.map",
+    "787.16b8aed7.chunk.js.map": "/devanshutamrakar331/devshoppingcart.git/static/js/787.16b8aed7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.610ee364.css",
+    "static/js/main.d7c878f6.js"
+  ]
+}
